@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=L2XaFmt9xsA
 link2:
 https://www.youtube.com/watch?v=IDqQIDL3LKg
 
-open raspberry pi 3 termal
+open raspberry pi 3 terminal
 $ sudo apt-get install xrdp
 $ifconfig
 
