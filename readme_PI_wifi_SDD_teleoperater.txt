@@ -5,7 +5,8 @@ https://www.youtube.com/watch?v=IDqQIDL3LKg
 
 open raspberry pi 3 terminal
 $ sudo apt-get install xrdp
-$ifconfig
+$ ifconfig
+$ sudo raspi-config
 
 save the IP: XXXXXXX
 
