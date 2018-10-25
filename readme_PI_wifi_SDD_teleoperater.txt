@@ -7,6 +7,8 @@ open raspberry pi 3 terminal
 $ sudo apt-get install xrdp
 $ ifconfig
 $ sudo raspi-config
+See memory space available
+$ df -h    
 
 save the IP: XXXXXXX
 
